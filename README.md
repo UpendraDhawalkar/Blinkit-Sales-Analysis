@@ -204,10 +204,6 @@ ORDER BY Total_Sales DESC;
 
 ## 📸 Dashboard Screenshots
 
-> Add screenshots of your Power BI dashboard inside a folder named `screenshots/` and reference them here.
-
-Example:
-
 ![Dashboard](Images/dashboard.png)
 
 
@@ -221,6 +217,7 @@ Example:
 🔗 LinkedIn: https://www.linkedin.com/in/upendradhawalkar  
 
 ---
+
 
 
 
